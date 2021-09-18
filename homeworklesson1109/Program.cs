@@ -55,6 +55,7 @@ namespace homeworklesson1109
                 }
                 Console.WriteLine($"x1 = {x1}; x2 = {x2}");
             }
+            Console.ReadKey();
         }
     }
 }
